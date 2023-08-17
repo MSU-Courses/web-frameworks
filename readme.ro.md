@@ -13,6 +13,8 @@ Pentru a înțelege conținutul, este necesar să studiați următoarele cursuri
 * PHP
 
 ## Teme
+1. [Backend Frameworks](/symfony/)
+   1. [Introducere în Symfony](/symfony/1_introduction/)
 
 ## Bibliografie
 1. Irvin Lin. Learning React 18. Easy & Simple To Follow. 2023.
