@@ -4,7 +4,7 @@
 
 În prezent, acest framework este larg utilizat în diferite proiecte, iar influența sa asupra lumii dezvoltării web este dificil de subestimat. De la crearea de aplicații corporative complexe până la dezvoltarea de startup-uri captivante, Symfony rămâne un tovarăș de încredere al dezvoltatorilor. Cu ajutorul său, sunt implementate nu doar sarcini tehnice, ci și principii filozofice de dezvoltare, contribuind la formarea unui produs software de calitate. De asemenea, datorită comunității active, Symfony continuă să evolueze, luând în considerare cele mai recente tendințe și standarde, pentru a rămâne în pas cu lumea în rapidă schimbare a tehnologiilor web.
 
-## Avantaje și dezavantaje ale Symfony.
+## Avantaje și dezavantaje ale Symfony
 
 | Avantaje | Dezavantaje |
 | --- | --- |
