@@ -15,6 +15,7 @@
 ## Темы
 1. [Backend Frameworks](/symfony/)
    1. [Введение в Symfony Framework](/symfony/1_introduction/)
+   2. [Основы Symfony](/symfony/2_symfony_basics/)
 
 ## Библиография
 1. Irvin Lin. Learning React 18. Easy & Simple To Follow. 2023.

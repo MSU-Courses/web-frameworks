@@ -15,6 +15,7 @@ Pentru a înțelege conținutul, este necesar să studiați următoarele cursuri
 ## Teme
 1. [Backend Frameworks](/symfony/)
    1. [Introducere în Symfony](/symfony/1_introduction/)
+   2. [Bazele Symfony](/symfony/2_symfony_basics/)
 
 ## Bibliografie
 1. Irvin Lin. Learning React 18. Easy & Simple To Follow. 2023.
