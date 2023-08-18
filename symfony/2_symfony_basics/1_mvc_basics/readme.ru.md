@@ -6,7 +6,8 @@
 
 ### Архитектура MVC
 
-Фреймворк Symfony основан на архитектуре MVC.
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
 
 **MVC (Model - View - Controller)** – архитектура, способ организации кода приложения, в котором данные приложения и управляющая логика разделяются на 3 компонента: Модель (Model), Представление (View), Контроллер (Controller).
 
