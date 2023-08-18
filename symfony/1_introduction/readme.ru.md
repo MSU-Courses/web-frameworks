@@ -16,7 +16,7 @@
 
 ## Composer - пакетный менеджер PHP
 
-![Composer package manager](/files/composer.png)
+![Composer package manager](/files/01_composer.png)
 
 В PHP одним из наиболее популярных способов установки пакетов является применение пакетного менеджера Composer.
 
