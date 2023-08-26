@@ -2,5 +2,5 @@
 
 The material is available in Russian and Romanian languages.
 
-* [Russian](readme.ro.md)
-* [Romanian](readme.ru.md)
+* [Russian](readme.ru.md)
+* [Romanian](readme.ro.md)
