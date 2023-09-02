@@ -52,7 +52,7 @@ Acest laborator vă face cunoștință cu fundamentele framework-urilor backend,
 
 ## Raport
 
-Prezentați un raport despre activitatea desfășurată.
+Prezentați un raport despre activitatea desfășurată și încărcați raportul pe Moodle.
 
 Încărcați proiectul pe git (Dacă doriți, puteți utiliza [gitlab.usm.md](https://gitlab.usm.md)).
 
@@ -61,7 +61,7 @@ Raportul trebuie să includă următoarele aspecte:
 1. Introducere (nu mai mult de 5 propoziții)
 2. Descrierea obiectivelor și principalelor etape ale proiectului.
 3. O scurtă descriere a aspectelor de implementare. Nu trebuie să descrieți fiecare etapă, ci doar câteva caracteristici mai interesante ale implementării unor mecanisme sau funcționalități.
-4. Concluzii.
+4. Concluzii și link către Git.
 5. Răspunsuri la întrebările de control.
 6. Lista surselor utilizate.
 
