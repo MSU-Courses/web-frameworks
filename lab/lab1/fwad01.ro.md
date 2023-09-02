@@ -9,7 +9,7 @@ Acest laborator vă face cunoștință cu fundamentele framework-urilor backend,
 
 ### Rutare și controlori
 
-2. Creați o clasă controlor cu metode pentru gestionarea următoarelor cereri:
+1. Creați o clasă controlor cu metode pentru gestionarea următoarelor cereri:
     1. `list`: pentru afișarea listei de sarcini
     2. `view`: vizualizarea unei singure sarcini
     3. `create`: crearea unei sarcini
@@ -18,7 +18,7 @@ Acest laborator vă face cunoștință cu fundamentele framework-urilor backend,
 
 ### Crearea entităților
 
-3. Creați entitățile **"Task"** și **"Category"**
+1. Creați entitățile **"Task"** și **"Category"**
     1. Creați entitatea **Category**, care reprezintă o categorie de sarcini.
     2. Adăugați următoarele proprietăți (câmpuri) la entitatea **Category**:
         1. `id`: identificator unic al categoriei
