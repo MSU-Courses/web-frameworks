@@ -4,9 +4,11 @@ Acest laborator vă face cunoștință cu fundamentele framework-urilor backend,
 
 ## Cerințe
 ### Pregătirea
+
 1. Instalați Symfony cu ajutorul Composer, urmând documentația oficială ([Instalați Composer](https://getcomposer.org/))
 
 ### Rutare și controlori
+
 2. Creați o clasă controlor cu metode pentru gestionarea următoarelor cereri:
     1. `list`: pentru afișarea listei de sarcini
     2. `view`: vizualizarea unei singure sarcini
@@ -15,6 +17,7 @@ Acest laborator vă face cunoștință cu fundamentele framework-urilor backend,
     5. `delete`: ștergerea unei sarcini
 
 ### Crearea entităților
+
 3. Creați entitățile **"Task"** și **"Category"**
     1. Creați entitatea **Category**, care reprezintă o categorie de sarcini.
     2. Adăugați următoarele proprietăți (câmpuri) la entitatea **Category**:
@@ -40,6 +43,7 @@ Acest laborator vă face cunoștință cu fundamentele framework-urilor backend,
 3. Pentru pagina unei singure sarcini, afișați descrierea completă a sarcinii.
 
 ### Gestionarea și salvarea datelor din formular
+
 1. Creați un formular corespunzător pentru crearea și actualizarea sarcinilor.
 2. Gestiționați trimiterea datelor din formular, validați datele și salvați-le în baza de date.
     1. Lungimea minimă a titlului: **4** caractere.
