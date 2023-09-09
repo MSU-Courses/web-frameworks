@@ -1,4 +1,4 @@
-# Laboratorul 1. Fundamentele Symfony
+# Lucrare de laborator nr. 1. Fundamentele Symfony
 
 Acest laborator vă face cunoștință cu fundamentele framework-urilor backend, folosind crearea unei mici aplicații "ToDo" ca exemplu.
 
