@@ -29,7 +29,7 @@ $idnp = random_int(20040403903490, 20050403903490);
 add_student($idnp, 'Alexei Ivanov', 12, 10000);
 
 // try this to make bad query
-//add_student($idnp, 'Alexei Ivanov', '--', null);
+//add_student($idnp, 'Alexei Ivanov', 19, null);
 
 
 function add_student($idnp, $name, $age, $contract_sum): void
