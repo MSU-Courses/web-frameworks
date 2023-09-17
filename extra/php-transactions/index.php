@@ -31,7 +31,6 @@ add_student($idnp, 'Alexei Ivanov', 12, 10000);
 // try this to make bad query
 //add_student($idnp, 'Alexei Ivanov', 19, null);
 
-
 function add_student($idnp, $name, $age, $contract_sum): void
 {
     global $pdo;
@@ -48,7 +47,6 @@ function add_student($idnp, $name, $age, $contract_sum): void
             'age' => $age,
         ]);
 
-
         // exec second query
         $sql = "INSERT into contract (contract_sum, student_idnp) values (:sum, :idnp)";
         $stmt = $pdo->prepare($sql);
@@ -60,6 +58,8 @@ function add_student($idnp, $name, $age, $contract_sum): void
         // END TRANSACTION
         // COMMIT OUR CHANGES
         $pdo->commit();
+
+        echo "Student {$name} with idnp {$idnp} was successfully added to database!";
     } catch (PDOException $exception) {
         // if an error occurred, rollback our queries
         $pdo->rollBack();
