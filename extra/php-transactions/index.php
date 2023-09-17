@@ -34,9 +34,9 @@ add_student($idnp, 'Alexei Ivanov', 12, 10000);
 
 function add_student($idnp, $name, $age, $contract_sum): void
 {
-    // create contracts table
     global $pdo;
     try {
+        // BEGIN TRANSACTION
         $pdo->beginTransaction();
 
         // exec first query
@@ -57,7 +57,8 @@ function add_student($idnp, $name, $age, $contract_sum): void
             'idnp' => $idnp,
         ]);
 
-        // commit our queries
+        // END TRANSACTION
+        // COMMIT OUR CHANGES
         $pdo->commit();
     } catch (PDOException $exception) {
         // if an error occurred, rollback our queries
