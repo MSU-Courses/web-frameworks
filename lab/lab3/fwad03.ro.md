@@ -1,4 +1,4 @@
-# # Lucrare de laborator nr. 3. Fundamentele React
+# Lucrare de laborator nr. 3. Fundamentele React
 
 Această lucrare de laborator îi introduce pe studenți în fundamentele framework-ului React, folosind ca exemplu o mică aplicație `Todo`.
 
