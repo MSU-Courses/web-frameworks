@@ -30,7 +30,7 @@ Această sarcină este destinată studenților care doresc să obțină nota max
 ### Sortare și căutare
 
 1. Adăugați funcționalitatea de sortare pentru task-uri în ordine crescătoare și descrescătoare.
-    1. **(Pentru nota 10)**:  Adăugați funcționalitatea de căutare a task-urilor după nume folosind un mecanism de întârziere (debounce).
+    1. **Opțional**:  Adăugați funcționalitatea de căutare a task-urilor după nume folosind un mecanism de întârziere (debounce).
 
 ### Utilizarea rutării
 
@@ -57,14 +57,14 @@ Prezentați un raport despre activitatea desfășurată și încărcați raportu
 
 ### Raport sub formă de fișier Word (PDF)
 
-В отчете должны быть отображены следующие аспекты:
+Raportul trebuie să includă următoarele aspecte:
 
-1. Введение (не более 5-х предложений)
-2. Описание цели и основные этапы работы.
-3. Краткое описание особенностей реализации. Не нужно описывать каждый Ваш шаг, а написать лишь некоторые более интересные особенности реализации того или инного механизма.
-4. Вывод и ссылка на git
-5. Ответы на контрольные вопросы
-6. Список использованных источников
+1. Introducere (nu mai mult de 5 propoziții)
+2. Descrierea obiectivelor și principalelor etape ale proiectului.
+3. O scurtă descriere a aspectelor de implementare. Nu trebuie să descrieți fiecare etapă, ci doar câteva caracteristici mai interesante ale implementării unor mecanisme sau funcționalități.
+4. Concluzii și link către Git.
+5. Răspunsuri la întrebările de control.
+6. Lista surselor utilizate.
 
 ### Raport sub formă de fișier readme
 
