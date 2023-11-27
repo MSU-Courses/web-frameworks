@@ -2,54 +2,55 @@
 
 Эта лабораторная работа ознакамливает студентов с основами управления состоянием во фронтенд-фреймворках, а также предоставляет понимание работы со стейт-менеджерами, такими как `redux-toolkit`.
 
-## Cerințe
 
-### Integrarea Redux Toolkit
+## Условие
 
-1. Instalați pachetele necesare pentru Redux Toolkit, dacă nu sunt deja instalate: `@reduxjs/toolkit` și `react-redux`.
-2. Creați un store de bază utilizând funcția `configureStore`.
+### Интеграция Redux Toolkit
 
-### Crearea unui `Slice` pentru Managementul Stării
+1. Установите необходимые пакеты для Redux Toolkit, если они еще не установлены: `@reduxjs/toolkit` и `react-redux`.
+2. Создайте базовый store с помощью функции `configureStore`.
 
-1. Utilizând funcționalitatea Redux Toolkit, în special createSlice, creați un slice care să gestioneze starea task-urilor în aplicația.
+### Создание Slice для управления состоянием задач
 
-### Acțiuni Asincrone în Redux Toolkit
+1. С использованием функционала Redux Toolkit, а именно createSlice, создайте слайс, который будет управлять состоянием задач в вашем приложении.
 
-1. Utilizând funcționalitatea Redux Toolkit, în special `createAsyncThunk`, creați un thunk asincron care să obțină date de la server.
-2. Înlocuiți logica locală de obținere a datelor în componente cu utilizarea thunk-ului.
+### Асинхронные `actions` в Redux Toolkit
 
-## Prezentarea lucrării de laborator
+1. Используя функционал Redux Toolkit, а именно createAsyncThunk, создайте асинхронный thunk, который будет получать данные с сервера.
+2. Замените локальную логику получения данных в компонентах на использование thunk.
 
-Prezentarea lucrării de laborator este obligatorie. În cazul absenței prezentării lucrării de laborator, nota maximă va fi 8, cu condiția îndeplinirii tuturor cerințelor.
+## Представление лабораторной работы
 
-## Raport
+Представление лабораторной работы обязательно. В случае отсутствия представления лабораторной работы, максимальная оценка составит 8 при выполнении всех условий.
 
-Prezentați un raport despre activitatea desfășurată și încărcați raportul pe Moodle.
+## Отчёт
 
-Încărcați proiectul pe git (Dacă doriți, puteți utiliza [gitlab.usm.md](https://gitlab.usm.md)).
+Предоставьте отчёт о проделанной работе и загрузите отчет на мудл.
 
-### Raport sub formă de fișier Word (PDF)
+Загрузите работу на git (при желании можно использовать gitlab.usm.md)
 
-Raportul trebuie să includă următoarele aspecte:
+### Отчет в виде word (pdf) файла
 
-1. Introducere (nu mai mult de 5 propoziții)
-2. Descrierea obiectivelor și principalelor etape ale proiectului.
-3. O scurtă descriere a aspectelor de implementare. Nu trebuie să descrieți fiecare etapă, ci doar câteva caracteristici mai interesante ale implementării unor mecanisme sau funcționalități.
-4. Concluzii și link către Git.
-5. Răspunsuri la întrebările de control.
-6. Lista surselor utilizate.
+В отчете должны быть отображены следующие аспекты:
 
-### Raport sub formă de fișier readme
+1. Введение (не более 5-х предложений)
+2. Описание цели и основные этапы работы.
+3. Краткое описание особенностей реализации. Не нужно описывать каждый Ваш шаг, а написать лишь некоторые более интересные особенности реализации того или инного механизма.
+4. Вывод и ссылка на git
+5. Ответы на контрольные вопросы
+6. Список использованных источников
 
-1.  Instrucțiuni privind instalarea și pornirea proiectului. Vă rugăm să specificați dependințele necesare și pașii necesari pentru a porni aplicația.
-2. Descrierea proiectului dvs., inclusiv scopul și funcțiile sale principale.
-3. Exemple de utilizare a proiectului, inclusiv capturi de ecran sau fragmente de cod, dacă este cazul.
-4. Răspunsuri la întrebările de control.
-5. Lista surselor utilizate.
-6. Alte aspecte importante.
+### Отчет в виде readme
 
-## Întrebări de control
+1.  Инструкции по установке и запуску проекта. Укажите необходимые зависимости и шаги, необходимые для запуска приложения.
+2. Описание вашего проекта, включая его назначение и основные функции
+3. Примеры использования проекта, включая скриншоты или кодовые фрагменты, если это применимо.
+4. Ответы на контрольные вопросы
+5. Список использованных источников
+6. Другие важные аспекты
 
-1. Ce este `Redux Toolkit` și în ce scop este utilizat?
-2. Ce înseamnă gestionarea stării în dezvoltarea frontend?
-3. În ce situații este potrivit să utilizăm manageri de stare, cum ar fi `Redux Toolkit`?
+## Контрольные вопросы
+
+1. Что представляет собой `Redux Toolkit` и для чего используется?
+2. Что такое стейт-менеджмент во фронтенд-разработке?
+3. В каких случаях целесообразно применять стейт-менеджеры, такие как `Redux Toolkit`?
